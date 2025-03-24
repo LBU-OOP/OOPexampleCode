@@ -30,7 +30,6 @@ public class ArrayListExample
 	{
 		System.out.println("***start***");
 		ArrayListExample o = new ArrayListExample();
-		//o.go();
 		System.out.println("**end**");
 
 	}
