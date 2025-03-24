@@ -8,11 +8,11 @@ public class ArrayListExample
 
 	public ArrayListExample()
 	{
-		ArrayList riders = new ArrayList();
+		ArrayList<Rider> riders = new ArrayList();
 		Rider r1 = new Rider("Geraint Thomas", 11, 5.8f);
 		Rider r2 = new Rider("Simon Yates", 15, 5.9f);
 		Rider r3 = new Rider("Jonas Vingegaard", 14, 6.5f);
-		Rider r4 = new Rider("Tadej Pogacar,918,7.5f);
+		Rider r4 = new Rider("Tadej Pogacar",918,7.5f);
 		riders.add(r1);
 		riders.add(r2);
 		riders.add(r3);
