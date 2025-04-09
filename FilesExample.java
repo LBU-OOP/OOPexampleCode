@@ -10,7 +10,7 @@ public class FilesExample
 {
 	public final int ENDOFFILE = -1;
 	
-	public  FilesExample() throws IOException
+	public  FilesExample() throws IOException //the throws means I don't have to have a try catch block, it is passing that reponsibility upwards
 	{
 		
 		
