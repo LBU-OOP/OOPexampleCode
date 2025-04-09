@@ -8,7 +8,7 @@ public class ConversionExample
 
 	}
 	
-	public Example()
+	public  ConversionExample()
 	{
 		System.out.println("in constructor");
 		

@@ -68,7 +68,7 @@ public class FilesCharExample
 	
 	public static void main(String[] args) 
 	{
-		FilesCharExampleExample o = new FilesCharExample();
+		FilesCharExample o = new FilesCharExample();
 	}
 
 }
